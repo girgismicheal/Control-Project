@@ -1,2 +1,2 @@
 # Control-Project
-the code and generated file ars here.
+the code and generated file are here.
